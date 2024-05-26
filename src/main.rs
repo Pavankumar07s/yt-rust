@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    let x:i8=5;
+    
+    print!("{}",y)
 }
