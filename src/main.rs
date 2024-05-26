@@ -3,7 +3,7 @@ fn main() {
     println!("{}",x);
 
     for i in 0..100{
-        x=x+1;
+        x=x+2;
     }
     print!("x:{}",x+1);
     let greet :String=String::from("hello wold");
