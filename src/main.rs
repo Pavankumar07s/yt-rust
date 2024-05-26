@@ -5,7 +5,7 @@ fn main() {
     for i in 0..100{
         x=x+1;
     }
-    print!("x:{}",x)
+    print!("x:{}",x+1)
 }
 
 
